@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   background('#f4f0e8');
   if (message) {
-    text(message, 10, 30, width-10, height-30);
+    text(message, 10, 30, width-20, height-60);
   }
 }
 
